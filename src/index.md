@@ -1,23 +1,25 @@
 CSS: theme.css
 Format: complete
-Title: UChicago PL Reading Group
+Title: MIT Algorithmic Fairness Reading Group
 
-# ![](reading_lambda.png "Reading Lambda") University of Chicago Programming Languages Reading Group
+# ![](mit.png "MIT Logo") MIT Algorithmic Fairness Reading Group
 
-The Programming Languages Reading Group, part of [PL research at UChicago](http://pl.cs.uchicago.edu/), is an occasional, informal meeting to discuss interesting PL papers. Food is provided. Visitors welcome!
+The Fairness Reading Group at MIT is a weekly meeting to discuss papers and occasionally hear from other researchers. We intend for the reading group to be relatively low effort, so that you can still understand the paper(s) for the week even if you didn’t read them (although skimming would probably be helpful either way).
 
-To receive announcements, sign up for the [`pl-readinggroup` mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/pl-readinggroup).
+<!-- To receive announcements, sign up for the [`pl-readinggroup` mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/pl-readinggroup). -->
 
-To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q=is%3Aissue) on the Github page. We'll close the issue when we schedule the paper.
+Special thanks to the UChicago PL Reading Group for the [website template](https://uchicago-cs.github.io/plrg/).
+
+<!-- To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q=is%3Aissue) on the Github page. We'll close the issue when we schedule the paper. -->
 
 ## Schedule
 
-For Spring 2023, PLRG meets on Tuesdays 12pm in Crerar 354.
+The Fall 2023 reading group will be organized by [Shuvom Sadhuka](https://shuvom-s.github.io/). Stay tuned for updates!
 
 | Date | Paper | Leader |
 | ---- | ----- | ------ |
 
-## Past Terms
+<!-- ## Past Terms
 
 ### Winter 2023
 
@@ -174,4 +176,4 @@ For the Fall 2016 term, we met on Fridays, 12:30pm-1:30pm in Ryerson 276.
 | 2016-10-14 | [Semi-Automated SVG Programming via Direct Manipulation](https://arxiv.org/pdf/1608.02829v1.pdf)                                   | Brian  |
 | 2016-10-21 | [Automatic Generation of Peephole Superoptimizers](http://theory.stanford.edu/~aiken/publications/papers/asplos06.pdf)             | Kavon  |
 | 2016-10-28 | [Dag-Calculus: A Calculus for Parallel Computation](http://www.chargueraud.org/research/2016/dag_calculus/dag_calculus_icfp16.pdf) | Kavon  |
-| 2016-11-04 | [A correspondence between rooted planar maps and normal planar lambda terms](http://arxiv.org/pdf/1408.5028v4)                     | Joe    |
+| 2016-11-04 | [A correspondence between rooted planar maps and normal planar lambda terms](http://arxiv.org/pdf/1408.5028v4)                     | Joe    | -->

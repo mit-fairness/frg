@@ -1,3 +1,3 @@
-# [UChicago Programming Languages Reading Group](https://uchicago-cs.github.io/plrg)
+# [MIT Fairness Reading Group](https://mit-fairness.github.io/frg/)
 
-create one issue per paper to read; we can use these to track which have been covered
+<!-- create one issue per paper to read; we can use these to track which have been covered -->
